@@ -1,4 +1,16 @@
 body {
     background-color: rgb(174, 172, 179);
+}
 
+header {
+    display: flexbox;
+    justify-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    display: inline;
+}
+
+a {
+    text-align: center;
 }
